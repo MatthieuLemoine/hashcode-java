@@ -1,6 +1,5 @@
 package com.mams.hashcode;
 
-import com.mams.hashcode.model.Parameters;
 import com.mams.hashcode.parsing.Parser;
 
 import java.io.IOException;
